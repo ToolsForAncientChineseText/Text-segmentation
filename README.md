@@ -1,11 +1,7 @@
 # 古文断句
-基于Google的BERT模型，为古籍自动添加断句。使用滑动窗口式古文断句方法，输入的长度不受限制。
+基于Google的BERT模型，为古籍自动添加断句。使用滑动窗口式古文断句方法，输入的长度不受限制。详情请参考《基于BERT的古文断句研究与应用》（ http://jcip.cipsc.org.cn/CN/abstract/abstract2861.shtml ）
 # 模型参数
-链接：https://pan.baidu.com/s/1s-LY75D_gx5Nn9CD3YZxgg 
 
-提取码：ilxs 
-
-新建checkpoint文件夹，将下载的文件移动到checkpoint并解压
 # 运行
 ```
 python para_seg.py \
