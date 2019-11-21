@@ -1,5 +1,6 @@
 # 古文断句
-基于Google的BERT模型，为古籍自动添加断句。使用滑动窗口式古文断句方法，输入的长度不受限制。详情请参考《基于BERT的古文断句研究与应用》（ http://jcip.cipsc.org.cn/CN/abstract/abstract2861.shtml ）
+基于Google的BERT模型，为古籍自动添加断句。使用滑动窗口式古文断句方法，输入的长度不受限制。
+详情请参考《基于BERT的古文断句研究与应用》（ http://jcip.cipsc.org.cn/CN/abstract/abstract2861.shtml ）
 # 模型参数
 
 # 运行
